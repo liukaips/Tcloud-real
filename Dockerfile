@@ -4,4 +4,4 @@ RUN ln -sf /usr/share/zoneinfo/Asia/Shanghai /etc/localtime && echo 'Asia/Shangh
 
 COPY dist/  /usr/share/nginx/html/
 
-COPY default.conf/  /etc/nginx/conf.d/default.conf1
+COPY default.conf/  /etc/nginx/conf.d/default.conf
