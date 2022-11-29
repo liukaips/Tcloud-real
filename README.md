@@ -3,7 +3,7 @@
 感觉项目不错的点个star，你的支持是我们源源不断的动力~谢谢！如有疑问，可联系QQ群：839084842，欢迎提issue
 
 
-## 后端传送门1：
+## 后端传送门：
 https://github.com/JunManYuanLong/TcloudServer
 
 ## demo地址(调试中，暂不可用)：
